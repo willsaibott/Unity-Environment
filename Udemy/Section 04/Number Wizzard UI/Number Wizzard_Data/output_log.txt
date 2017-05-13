@@ -1,0 +1,79 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\guinb\Programming Learning\Unity Environment\Udemy\Section 04\Number Wizzard UI\Number Wizzard_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.663443 ms
+Load Scene Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.275023 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.188851 ms (FindLiveObjects: 0.012726 ms CreateObjectMapping: 0.011905 ms MarkObjects: 0.161344 ms  DeleteObjects: 0.002873 ms)
+
+Load Scene StartMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373187 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 0.194599 ms (FindLiveObjects: 0.013137 ms CreateObjectMapping: 0.009032 ms MarkObjects: 0.168734 ms  DeleteObjects: 0.003284 ms)
+
+Load Scene Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340343 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 194.
+Total: 0.217589 ms (FindLiveObjects: 0.022580 ms CreateObjectMapping: 0.009853 ms MarkObjects: 0.180640 ms  DeleteObjects: 0.003284 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.426558 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 0.165860 ms (FindLiveObjects: 0.011084 ms CreateObjectMapping: 0.009442 ms MarkObjects: 0.142459 ms  DeleteObjects: 0.002873 ms)
+
+Load Scene StartMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.376060 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 181.
+Total: 0.212252 ms (FindLiveObjects: 0.022580 ms CreateObjectMapping: 0.009853 ms MarkObjects: 0.176124 ms  DeleteObjects: 0.003284 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 69c -> priority: 1 
+  Thread -> id: f04 -> priority: 1 
